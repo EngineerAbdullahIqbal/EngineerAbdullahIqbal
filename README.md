@@ -23,9 +23,6 @@ I'm Abdullah Iqbal, an AI Engineer specializing in developing agentic AI systems
   <a href="https://www.docker.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   </a>
-  <a href="https://flask.palletsprojects.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  </a>
   <a href="https://fastapi.tiangolo.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   </a>
